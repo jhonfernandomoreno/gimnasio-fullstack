@@ -3,21 +3,21 @@
 > Completa este archivo con ayuda de tu asistente de código. Él lo lee antes de cada tarea (ver AGENTS.md).
 
 ## ¿Qué es?
-<!-- Una frase. Ej: Tienda online de café de especialidad colombiano. -->
+App de gimnasio **FitLife** para principiantes: catálogo de rutinas y clases con su tipo de entrenamiento, precio y nivel; y un coach que arma tu rutina semanal.
 
 ## ¿Para quién?
-<!-- Quién lo va a usar. -->
+Principiantes que empiezan en el gimnasio y necesitan guía estructurada según su nivel.
 
 ## Elementos que maneja
-<!-- Qué guarda tu proyecto y sus campos. Ej: Productos con nombre, descripción, categoría y precio. -->
+Rutinas/clases con: nombre, descripción, categoría (tipo de entrenamiento: fuerza, cardio, yoga, etc.), precio (valor de la clase) y level (principiante, intermedio, avanzado).
 
 ## Dato extra
-<!-- Un campo nuevo que tendrá cada elemento, con su tipo. Ej: stock (número entero). -->
+level (texto: "principiante", "intermedio" o "avanzado")
 
 ## Marca
-- Nombre:
-- Eslogan:
-- Color principal (hex):
+- Nombre: FitLife
+- Eslogan: Tu inicio, tu fuerza
+- Color principal (hex): #43A047
 
 ## Asistente de mi producto (bonus)
-<!-- Qué haría el chat dentro de tu app. Ej: Recomienda cafés según el gusto del cliente. -->
+Coach que arma tu rutina semanal combinando clases según tu nivel, objetivo y días disponibles.
